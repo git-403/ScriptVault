@@ -1,5 +1,4 @@
-1. version_switcher.sh 
-    # version_switcher.sh 使用教程
+# version_switcher.sh 使用教程
     
     `version_switcher.sh` 脚本可以帮助你进行 Node.js、JDK 和 Maven 版本的丝滑切换（Node.js 使用的 `nvm`）。以下是使用该脚本的步骤：
     
